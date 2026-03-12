@@ -1,0 +1,8 @@
+.resetBtn{
+    width:250px;
+}
+
+.resetBtn:hover {
+  background-color: darkgrey;
+  color:white;
+}
