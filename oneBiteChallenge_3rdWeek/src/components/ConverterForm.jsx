@@ -3,7 +3,7 @@ function ConverterForm({ currency, value, onChange: onChangeHandler }) {
     <div>
       <span>{currency}: </span>
       <input
-        type="text"
+        type="number"
         value={value}
         onChange={(event) => onChangeHandler(currency, event.target.value)}
       />
