@@ -1,4 +1,4 @@
-function Form({ currency, value, onChange: onChangeHandler }) {
+function ConverterForm({ currency, value, onChange: onChangeHandler }) {
   return (
     <div>
       <span>{currency}: </span>
@@ -11,4 +11,4 @@ function Form({ currency, value, onChange: onChangeHandler }) {
   );
 }
 
-export default Form;
+export default ConverterForm;
