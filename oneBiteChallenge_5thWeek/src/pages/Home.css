@@ -1,0 +1,19 @@
+.Home {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 40px;
+  margin-bottom:50px;
+}
+
+.Home .Header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Home .TransactionList {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}

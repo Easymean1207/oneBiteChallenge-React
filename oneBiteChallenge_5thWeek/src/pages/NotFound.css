@@ -1,0 +1,11 @@
+.NotFound {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 40px;
+}
+
+.NotFound h1, .NotFound p {
+  text-align: center;
+  color:white;
+}
