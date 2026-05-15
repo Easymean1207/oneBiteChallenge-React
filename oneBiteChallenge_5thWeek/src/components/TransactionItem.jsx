@@ -12,7 +12,7 @@ const categoryLabelMap = {
   living: '🏠생활비',
   entertain: '🎬문화/여가',
   salary: '💰급여',
-  pocket: '💰용돈',
+  pocket: '🪙용돈',
   other: '📦기타',
 };
 

@@ -106,7 +106,7 @@ function Editor({ onSubmit, initData }) {
           <option value="living">🏠생활비</option>
           <option value="entertain">🎬문화/여가</option>
           <option value="salary">💰급여</option>
-          <option value="pocket">💰용돈</option>
+          <option value="pocket">🪙용돈</option>
           <option value="other">📦기타</option>
         </select>
       </div>
